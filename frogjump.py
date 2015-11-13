@@ -1,6 +1,4 @@
 '''
-liveramp OA:
-
 frog jump through fallen leaves to the other bank:
 the fallen leaves time line is A
 frog jump distance is D, leave out jump action time 
