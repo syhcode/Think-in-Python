@@ -41,3 +41,5 @@ class solution:
                 maxdis=max(A[i]+D,maxdis)  #greedily,update further reaching
                 if maxdis>=A[i]:
                     reachable[i]=True
+                    
+                    
